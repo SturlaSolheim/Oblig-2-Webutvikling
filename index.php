@@ -1,25 +1,57 @@
-<!DOCTYPE html>
-<html lang="no">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Webutvikling</title>
-</head>
-<body>
-    <nav class="navbox">
+<?php 
 
-            <div class="navigasjon"> <a href="index.php"> Hjem</a></div>
-            <div class="navigasjon"><a href="nav_wcag.php">NAV WCAG 2.0 test</a></div>
-            <div class="navigasjon">Videoer</div>
-            <div class="navigasjon">annet</div>
-
-    </nav>
-    
+include("header.php");
+?>
 
 
+<div class="section">
+
+<div class="col1">
+<h1>Lorem ipsum dolor sit amet.</h1>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, possimus.</p>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, possimus.</p>
+<a href="" class="btn">les mer om &#8594;</a>
+
+</div>
+
+</div>
+
+<div class="section">
+<div class="col2">
+<img src="bilder/usn.jpg" alt="">
+</div>
+
+</div>
+<div class="col1">
+<h1>Lorem ipsum dolor sit amet.</h1>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, possimus.</p>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, possimus.</p>
+<a href="" class="btn">Les mer om&#8594;</a>
+
+</div>
+
+<div class="col2">
+<img src="bilder/usn.jpg" alt="">
+</div>
+<div class="col1">
+<h1>Lorem ipsum dolor sit amet.</h1>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, possimus.</p>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, possimus.</p>
+ <a href="" class="btn">Les mer om &#8594;</a>
+
+</div>
+
+<div class="col2">
+<img src="bilder/usn.jpg" alt="">
+</div>
 
 
-</body>
-</html>
+
+
+
+
+
+<?php 
+
+include("footer.php");
+?>
