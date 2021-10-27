@@ -24,7 +24,7 @@
             <li><a href="annet.php">Annet</a></li>
         </ul>
        </nav>
-       <img src="images/menu.png" class="menu-icon" onclick="menutoggle()">
+       <img src="bilder/menu.png" class="menu-icon" onclick="menutoggle()">
 
 </div>
 <div class="row">
