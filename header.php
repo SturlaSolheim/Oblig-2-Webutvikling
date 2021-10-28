@@ -13,7 +13,9 @@
     <div class="container">
     <div class="navbox">
         <div>
+            <a href="index.php">
             <img src="bilder/logo.png"class="logo">
+            </a>
         </div>
 
             <nav> 
