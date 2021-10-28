@@ -14,7 +14,7 @@ include("header.php");
 
 
 <div class="col-1">
-    
+
 
 <ul> 
     <li><a href="#1">1.1.1 Ikke-tekstlig innhold</a></li>
@@ -132,55 +132,89 @@ include("header.php");
 
 <div class="resultat">
     <p class="tittel"><a class="anchor"  id="11"></a>1.4.3 Kontrast</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Den visuelle presentasjonen av tekst og bilder av tekst har et kontrastforhold på minst 4.5:1, unntatt noen tilfeller:
+I forhold til den NAV side har tekstene og bilder av tekst har et kontrastforhold på 5.6.Derfor er lett å lese tekst innholdet og informasjon som formidler NAV side.
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor"  id="12"></a>1.4.4 Endring av tekststørrelse</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Tekst kan bli endret til 200% størrelse uten tap av innhold eller funksjon.
+Selv om Teksten bli endret til 200% ser man fortsatt alle innholdet og funksjoner som ligger i den NAV side uten å tape noen informasjon.
+•	Godkjent.
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="13"></a>1.4.5 Bilder av tekst</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Bruk tekst i stedet for bilder av tekst.
+Selv om Bilder og grafikk er viktig for mange brukere, men Hvis teknologien som brukes kan håndtere den visuelle presentasjonen, det er anbefalt å bruke tekst i stedet for bilder av tekst.
+NAV Side har brukt bare tekst til å formidle informasjon og det finns ikke noen bilder med tekst innholdet.
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="14"></a>2.1.1 Tastatur</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar"> All funksjonalitet skal kunne brukes kun ved hjelp av tastatur.
+Det er mange som bruker mus for å navigere på nettstedet, men de som vill ikke bruke eller de som kan ikke må få tilgang innholdet ved hjelp av tastatur. Dette inkluderer brukere av skjermlesere, men kan også inkludere brukere som har problemer med å betjene en pekeenhet, for eksempel en mus eller styrekule
+All komponent inkludere lenker, knapper og skjemaelementer i NAV side kan brukes og kontrollere ved hjelp av tastatur.
+•	Godkjent.
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="15"></a>2.1.2 Ingen tastaturfelle</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Unngå tastaturfeller.
+En tastaturfelle oppstår når en bruker kan komme inn i en komponent eller et element på en webside ved å bruke tastaturet, men ikke kan komme seg ut av den komponenten eller elementet ved bruk av tastaturet.
+Ved hjelp av tastatur kan brukeren av NAV side flyttes til en av komponentene ved hjelp av et tastaturgrensesnitt uten å få tastaturfeller eller behov for noe annet enn standard pil- eller tabulatortaster 
+•	Godkjent.
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="16"></a>2.2.1 Justerbar hastighet</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Tidsbegrensninger skal kunne justeres av brukeren.
+
+Hensikten med dette suksesskriteriet er å sikre at brukere med nedsatt funksjonsevne som blindhet eller nedsatt syn får tilstrekkelig tid til å få med seg det han prøver å finne i den side når det er mulig. 
+Det er ikke noe tidsbegrensninger som brukeren av NAV side skal kunne justeres av. 
+•	Godkjent.
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="17"></a>2.2.2 Pause, stopp, skjul</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Gi brukeren mulighet til å stoppe, pause eller skjule innhold som automatisk endrer seg.
+Denne standarden gjelder spesielt alt innhold som vises på en skjerm med annet innhold, starter automatisk og varer i mer enn fem sekunder.
+De Videoene og andre Bevegelse form som finnes i Nav side gir brukeren mulighet til å pause, stopp eller skjule den.
+•	Godkjent.
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="18"></a>2.3.1 Terskelverdi på maksimalt tre glimt</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Innhold skal ikke blinke mer enn tre ganger per sekund.
+Blinkende innhold på et nettsted kan forårsake problemer for brukere med lysfølsomme anfallssykdommer som epilepsi. Blinkende innhold kan føre til at disse brukerne får et anfall. Derfor et det anbefalt at nedsider skal ikke innhold glimter mer enn tre ganger i løpet av ett sekund.
+NAV side har ikke noe blinke eller glimt som forårsaker brukeren får problem med å bruke nettsiden.
+•	Godkjent.
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="19"></a>2.4.1 Hoppe over blokker</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Gi brukeren mulighet til å hoppe direkte til hovedinnholdet.
+En måte brukeren kan unngå å omgå blokker med innhold som gjentas på flere websider er å tilby en hoppemekanisme som gjør at brukerne kan hoppe over gjentatte innholdsblokker, for eksempel navigasjonsmenyer
+•	Godkjent.
+</p>
     
 </div>
 
