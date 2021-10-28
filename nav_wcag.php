@@ -77,49 +77,56 @@ include("header.php");
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="3"></a>1.2.2 Teksting</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">I de tilfellene man fant video, var de tekstet. Godkjent</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="4"></a>1.2.3 Synstolking eller mediealternativ</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">I videoene vi fant var det en fortellerstemme som beskrev hva som skjedde. Godkjent
+    </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="5"></a>1.2.5 Synstolking</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">I videoene vi fant var det en fortellerstemme som beskrev hva som skjedde. Godkjent
+    </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="6"></a>1.3.1 Informasjon og relasjoner</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Fant ingen feil. Godkjent
+    </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="7"></a>1.3.2 Meningsfylt rekkefølge</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Det er minst to måter å navigere nettsiden, både søk og navigeringselementer. Navigeringen er dog ikke helt likt lagt opp for hver underside, men det gjelder bare fåtall av sidene. Godkjent?
+    </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="8"></a>1.3.3 Sensoriske egenskapero</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Nettsiden bruker mye logoer for å uttrykke funksjoner og undertitler. Alle disse er også støttet opp med skriftlig beskrivelse. Godkjent
+    </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="9"></a>1.4.1 Bruk av farge</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Farger er aldri blitt brukt som utelukkende virkemiddel for å formidle informasjon. Godkjent.
+    </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="10"></a>1.4.2 Styring av lyd</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">Ingen lyd spilles automatisk. Godkjent.
+    </p>
     
 </div>
 
