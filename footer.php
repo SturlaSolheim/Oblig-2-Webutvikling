@@ -15,11 +15,11 @@
 <div class="container">
     <div class="row">
         <div class="footer-col-1">
-            <h3>SIST NYHETER</h3>
-            <p>les om</p>
+            <h3>Univell utforming</h3>
+            <p>Webutvikling</p>
         </div>
         <div class="footer-col-2">
-           <img src="bilder/teamwork.png" alt="">
+           
            <p>USN STUDENT</p>
         </div>
 
@@ -44,7 +44,7 @@
     </div>
 </div>
 <hr>
-<p class="copyright">copyright 2021</p>
+
 
 
 </div>
