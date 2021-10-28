@@ -13,7 +13,7 @@
     <div class="container">
     <div class="navbox">
         <div>
-            <img src="bilder/teamwork2.png"class="logo">
+            <img src="bilder/logo.png"class="logo">
         </div>
 
             <nav> 
