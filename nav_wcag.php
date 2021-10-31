@@ -220,67 +220,138 @@ En måte brukeren kan unngå å omgå blokker med innhold som gjentas på flere 
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="20"></a>2.4.2 Sidetitler</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Nyttige og tydelige titler på nettsiden. 
+-	Nettsiden har titler som beskriver den aktuelle sidens emne eller formål.
+-	Nettsiden skal ha sidetitler som lett beskriver formålet til de forskjellige funksjonene på nettsiden.
+
+NAV.no har gode sidetitler som er lette å forstå, alle sidetitlene er uthevet i en synlig blå farge med store/tykke bokstaver.
+
+•	Godkjent.  
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="21"></a>2.4.3 Fokusrekkefølgeo</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Presenterer innholdet i en logisk rekkefølge.
+-	En nettside kan navigeres sekvensielt og navigeringssekvensen påvirker betydning eller betjening, får fokuserbare komponenter fokus i en rekkefølge som ivaretar betydningen og betjeningen. 
+-	Tastaturnavigasjon skal ivareta brukere som ikke kan eller vil bruke nettstedet med mus. (evt. Personer med nedsatt 
+
+NAV.no gir muligheten til å navigere nedover i rekkefølge med tab tasten og bakover med shift + tab tastene. Elementer som er valgt med tastaturet blir satt i fokus. 
+
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="22"></a>2.4.4 Formål med lenke</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Formålet med enhver lenke kan fastslås ut fra bare selve lenken eller ut fra lenketeksten kombinert med programmeringsmessig bestemt lenkekontekst. Unntaket er hvis formålet med lenken ville vært flertydig for alle brukere.
+
+Alle lenkene på NAV.no er markert med kontrast mellom fargen på lenken og fargen på teksten som ligger rundt, de er merket med blå tekst og blir uthevet med en blå understrek når man har den aktuelle lenken i fokus.
+
+Nav logoen på toppen av nettsiden fører til forsiden. Dette er beskrevet som «til forsiden» i koden. 
+
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="23"></a>2.4.5 Flere måter</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Tilby brukeren flere måter å navigere på (brukeren skal ha flere innganger til innholdet på nettsiden)
+-	Supplere standard navigasjon med for eksempel en søkefunksjon/alfabetisk liste eller nettstedkart.
+-	Brukeren skal ha minst to metoder til å finne innholdet på nettstedet. 
+-	Søk skal være enkelt å finne og gjennomføre, og skal søke gjennom hele nettstedet.
+-	Valgene for navigering skal være det samme for hele nettstedet.
+
+NAV.no har en meny funksjon med godkjente lenker og en søkefunksjon. Begge disse er tilgjengelig på tvers av nettsiden øverst ved header. Hvis nettsidens størrelse blir endret fra 50% til 100%, blir meny og søk funksjon krympet og plassert på samme sted, fortsatt på en oversiktlig måte. 
+
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="24"></a>2.4.6 Overskrifter og ledetekster</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Overskrifter og ledetekster beskriver emne eller formål.
+-	God tekststruktur er viktig for lesbarhet og navigering i innhold.
+-	Hovedinnholdets tittel skal være den første overskriften i koden, og skal være på nivå 1 ved hjelp av elementet <h1>
+-	Overskrifter kodes ved hjelp av overskriftelementene <h1> til <h6>, disse deler opp teksten tilsvarende i kapitler og delkapitler i ulike nivåer.
+Skjema:
+-	Tilgjengelige skjema gir økt brukervennlighet for alle.
+-	Skjema omfatter alt fra søkefelt, innlogging, søknader om offentlige tjenester og kjøpsfunksjonaliteter for flybilletter og hotellovernatting.
+-	For å støtte brukerens utfylling av skjema er det nødvendig med
+•	Beskrivende ledetekster
+•	Merking av obligatoriske felter
+•	Tydelige feilmeldinger
+Nav.no bruker <h1> <h2> <h2> <h3> osv. i riktig rekkefølge. De fleste elementene på nav.no er lenker men overskriftene skiller mellom kategoriene til lenkene på en god måte. I koden til nettsiden blir søk og navigering beskrevet som de funksjonene de har men det er ikke noen ledetekster når elementene er i fokus. 
+Overskrifter og ledetekster har en god funksjonalitet og virker logisk på nettsiden til nav.
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="25"></a>2.4.7 Synlig fokus</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Innhold får synlig fokus ved navigering med tastatur.
+
+Som beskrevet i et tidligere punkt, får alle elementer synlig fokus når et element er valgt med tastatur. 
+
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="26"></a>3.1.1 Språk på siden</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Språket til innholdet på nettsiden er angitt i koden. 
+
+Nav.no har språket angitt i på både Norsk(no), Engelsk(en) og Samis(se)
+
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="27"></a>3.1.2 Språk på deler av innhold</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Deler av innholdet som er på et annet språk enn resten av siden er markert i koden.
+
+Ikke aktuelt for NAV sin nettside.
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="28"></a>3.2.1 Fokus</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Når en komponent kommer i fokus medfører dette ikke automatisk betydelige endringer i siden.
+
+Når elementer kommer i fokus er det kun det valgte elementet som blir påvirket på NAV sin nettside.
+
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="29"></a>3.2.3 Konsekvent navigering</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	Navigasjonslenker som gjentas på flere sier skal ha en konsekvent rekkefølge.
+
+Navigasjon med tastatur fortsetter i rekkefølge på flere websider innenfor nav.no.
+
+•	Godkjent
+</p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="30"></a>3.2.4 Konsekvent identifikasjon</p>
-    <p class="svar">SKRIV SVAR HER</p>
+    <p class="svar">-	komponenter har samme funksjonalitet innenfor en samling av nettsider, identifiseres på en konsekvent måte. 
+Elementer som linker, overskrifter osv. på tvers av sider er utformet på samme måte i kodene
+
+•	godkjent
+</p>
     
 </div>
 
