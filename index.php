@@ -18,7 +18,7 @@ include("header.php");
 
 <div class="section">
 <div class="col2">
-<img src="bilder/universell-utforming.jpg" alt="">
+<img src="bilder/universell-utforming.jpg" alt="Illustrasjon av universell utforming">
 </div>
 
 </div>
@@ -27,23 +27,27 @@ include("header.php");
 <p>Her kan du finne informasjon om vår vurdering av nav.no.</p>
 <p>Vi har blant annet testet siden oppmot diverse WCAG kriterier.
 </p>
-<a href="nav_wcag.php" class="btn">Les mer om&#8594;</a>
+<a href="nav_wcag.php" class="btn">Les om NAV.no&#8594;</a>
 
 </div>
 
 <div class="col2">
-<img src="bilder/nav_nettside.png" alt="">
+<a href="nav_wcag.php">
+<img src="bilder/nav_nettside.png" alt="Bilde av nettsiden til nav.no">
+</a>
 </div>
 <div class="col1">
 <h1>Videoer av brukertester</h1>
 <p>Vi har tatt noen videoer av brukertester fra diverse nettsider.</p>
 <p>Disse finner du her</p>
- <a href="videoer.php" class="btn">Les mer om &#8594;</a>
+ <a href="videoer.php" class="btn">Se videoer&#8594;</a>
 
 </div>
 
 <div class="col2">
-<img src="bilder/usertest.png" alt="">
+<a href="videoer.php">    
+<img src="bilder/usertest.png" alt="Bilde av en mann som utfører en brukertest">
+</a>
 </div>
 
 
