@@ -278,11 +278,13 @@ NAV.no har en meny funksjon med godkjente lenker og en søkefunksjon. Begge diss
 </div>
 
 <div class="resultat">
-    <p class="tittel"><a class="anchor" id="24"></a>2.4.6 Overskrifter og ledetekster</p>
+    <p class="tittel"><a class="anchor" id="24"></a>
+    2.4.6 Overskrifter og ledetekster</p><br>
     <p class="svar">-	Overskrifter og ledetekster beskriver emne eller formål.
 -	God tekststruktur er viktig for lesbarhet og navigering i innhold.
 -	Hovedinnholdets tittel skal være den første overskriften i koden, og skal være på nivå 1 ved hjelp av elementet h*1
 -	Overskrifter kodes ved hjelp av overskriftelementene H*1 til H*6", disse deler opp teksten tilsvarende i kapitler og delkapitler i ulike nivåer.
+    <br>
 Skjema:
 -	Tilgjengelige skjema gir økt brukervennlighet for alle.
 -	Skjema omfatter alt fra søkefelt, innlogging, søknader om offentlige tjenester og kjøpsfunksjonaliteter for flybilletter og hotellovernatting.
@@ -296,6 +298,22 @@ Overskrifter og ledetekster har en god funksjonalitet og virker logisk på netts
 </p>
     
 </div>
+
+<div class="resultat">
+    <p class="tittel"><a class="anchor" id="24"></a>
+    2.4.6 Overskrifter og ledetekster</p><br>
+    <p class="svar">-	Overskrifter og ledetekster beskriver emne eller formål.
+-	God tekststruktur er viktig for lesbarhet og navigering i innhold.
+-	Hovedinnholdets tittel skal være den første overskriften i koden, og skal være på nivå 1 ved hjelp av elementet h*1
+-	Overskrifter kodes ved hjelp av overskriftelementene H*1 til H*6", disse deler opp teksten tilsvarende i kapitler og delkapitler i ulike nivåer.
+    <br>
+
+•	</br>Godkjent 
+</p>
+    
+</div>
+<br>
+<br>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="25"></a>2.4.7 Synlig fokus</p>
@@ -360,41 +378,7 @@ Elementer som linker, overskrifter osv. på tvers av sider er utformet på samme
     
 </div>
 
-<div class="resultat">
-    <p class="tittel"><a class="anchor" id="31"></a>3.3.1 Identifikasjon av feil</p>
-    <p class="svar">SKRIV SVAR HER</p>
-    
-</div>
 
-<div class="resultat">
-    <p class="tittel"><a class="anchor" id="32"></a>3.3.2 Ledetekster eller instruksjoner</p>
-    <p class="svar">SKRIV SVAR HER</p>
-    
-</div>
-
-<div class="resultat">
-    <p class="tittel"><a class="anchor" id="33"></a>3.3.3 Forslag ved feil</p>
-    <p class="svar">SKRIV SVAR HER</p>
-    
-</div>
-
-<div class="resultat">
-    <p class="tittel"><a class="anchor" id="34"></a>3.3.4 Forhindring av feil</p>
-    <p class="svar">SKRIV SVAR HER</p>
-    
-</div>
-
-<div class="resultat">
-    <p class="tittel"><a class="anchor" id="35"></a>4.1.1 Parsing</p>
-    <p class="svar">SKRIV SVAR HER</p>
-    
-</div>
-
-<div class="resultat">
-    <p class="tittel"><a class="anchor" id="36"></a>4.1.2 Navn, rolle, verdi</p>
-    <p class="svar">SKRIV SVAR HER</p>
-    
-</div>
 
 
 

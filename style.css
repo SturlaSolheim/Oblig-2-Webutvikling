@@ -109,9 +109,9 @@ p{
      background-color: rgb(235, 198, 198);
     text-align: left;
       line-height: 20px;
-      padding: 30px;
+      padding: 20px;
       color: whitesmoke;
-      line-height: 1.5;
+      
 }
 
 
@@ -135,6 +135,8 @@ p{
 
 .tittel{
 
+margin: 10px 0px;
+padding: 10px;
 
     font-size: x-large;
 }
@@ -331,3 +333,82 @@ ul{
 
 
 
+
+@media only screen and (max-width:600px){
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.col-1{
+    flex-basis: 100%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+ 
+    
+   
+
+    
+    
+}
+
+.col-1 h1{
+    margin-bottom: 20px;
+    color:chocolate
+}
+
+.col-1 ul li a{
+    display:block;
+    line-height: 15px;
+    padding: 10px;
+    color: black;
+    font-size: 15px;
+   
+
+   
+}
+
+.col-1 ul li a:hover{
+    text-decoration: underline;
+    color: black;
+    padding: 5px;
+    font-size: 16px;
+    background-color: greenyellow;
+    border-radius: 20px 0px 20px 0px;
+
+}
+.col-2{
+    flex-basis:100%;
+     display: inline-block;
+     background-color: rgb(235, 198, 198);
+    text-align: center;
+    font-size: x-small;
+    
+      padding: 5px;
+      color: whitesmoke;
+     
+}
+
+.col-1 h1{
+    margin-bottom: 10px;
+    color:chocolate
+}
+
+.resultat{
+    margin-bottom: 10px;
+    
+     margin-bottom:10px;}
+     
+   
+    .tittel{
+
+
+        font-size: 15px;
+    }
+
+
+    
+
+    
+
+}
