@@ -65,67 +65,72 @@ include("header.php");
 
     <div class="resultat">
             <p class="tittel"> <a class="anchor" id="1"></a>1.1.1 Ikke-tekstlig innhold</p>
-            <p class="svar">Lite innhold som ikke er tekst. I noen tilfeller bruker dem logoer sammen med undertitler. Godkjent </p>
+            <p class="svar">Lite innhold som ikke er tekst. I noen tilfeller bruker dem logoer 
+                sammen med undertitler. 
+</br>Godkjent </p>
             
     </div>
 
     <div class="resultat">
         <p class="tittel"><a class="anchor" id="2"></a>1.2.1 Bare lyd og bare video</p>
-        <p class="svar">I de tilfellene man fant video, var de tekstet. Godkjent</p>
+        <p class="svar">I de tilfellene man fant video, var de tekstet.</br>Godkjent </p>
         
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="3"></a>1.2.2 Teksting</p>
-    <p class="svar">I de tilfellene man fant video, var de tekstet. Godkjent</p>
+    <p class="svar">I de tilfellene man fant video, var de tekstet. </br>Godkjent </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="4"></a>1.2.3 Synstolking eller mediealternativ</p>
-    <p class="svar">I videoene vi fant var det en fortellerstemme som beskrev hva som skjedde. Godkjent
+    <p class="svar">I videoene vi fant var det en fortellerstemme som beskrev hva som skjedde. </br>Godkjent 
     </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="5"></a>1.2.5 Synstolking</p>
-    <p class="svar">I videoene vi fant var det en fortellerstemme som beskrev hva som skjedde. Godkjent
+    <p class="svar">I videoene vi fant var det en fortellerstemme som beskrev hva som skjedde. </br>Godkjent 
     </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="6"></a>1.3.1 Informasjon og relasjoner</p>
-    <p class="svar">Fant ingen feil. Godkjent
+    <p class="svar">Fant ingen feil. </br>Godkjent 
     </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="7"></a>1.3.2 Meningsfylt rekkefølge</p>
-    <p class="svar">Det er minst to måter å navigere nettsiden, både søk og navigeringselementer. Navigeringen er dog ikke helt likt lagt opp for hver underside, men det gjelder bare fåtall av sidene. Godkjent?
+    <p class="svar">Det er minst to måter å navigere nettsiden, både søk og navigeringselementer. 
+        Navigeringen er dog ikke helt likt lagt opp for hver underside, men det gjelder bare fåtall av sidene. 
+        </br>Godkjent 
     </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="8"></a>1.3.3 Sensoriske egenskapero</p>
-    <p class="svar">Nettsiden bruker mye logoer for å uttrykke funksjoner og undertitler. Alle disse er også støttet opp med skriftlig beskrivelse. Godkjent
+    <p class="svar">Nettsiden bruker mye logoer for å uttrykke funksjoner og undertitler.
+         Alle disse er også støttet opp med skriftlig beskrivelse.</br>Godkjent 
     </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="9"></a>1.4.1 Bruk av farge</p>
-    <p class="svar">Farger er aldri blitt brukt som utelukkende virkemiddel for å formidle informasjon. Godkjent.
+    <p class="svar">Farger er aldri blitt brukt som utelukkende virkemiddel for å formidle informasjon.</br>Godkjent 
     </p>
     
 </div>
 
 <div class="resultat">
     <p class="tittel"><a class="anchor" id="10"></a>1.4.2 Styring av lyd</p>
-    <p class="svar">Ingen lyd spilles automatisk. Godkjent.
+    <p class="svar">Ingen lyd spilles automatisk. </br>Godkjent 
     </p>
     
 </div>
@@ -226,7 +231,7 @@ Blinkende innhold på et nettsted kan forårsake problemer for brukere med lysf�
 
 NAV.no har gode sidetitler som er lette å forstå, alle sidetitlene er uthevet i en synlig blå farge med store/tykke bokstaver.
 
-•	Godkjent.  
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -239,7 +244,7 @@ NAV.no har gode sidetitler som er lette å forstå, alle sidetitlene er uthevet 
 
 NAV.no gir muligheten til å navigere nedover i rekkefølge med tab tasten og bakover med shift + tab tastene. Elementer som er valgt med tastaturet blir satt i fokus. 
 
-•	Godkjent
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -252,7 +257,7 @@ Alle lenkene på NAV.no er markert med kontrast mellom fargen på lenken og farg
 
 Nav logoen på toppen av nettsiden fører til forsiden. Dette er beskrevet som «til forsiden» i koden. 
 
-•	Godkjent
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -267,7 +272,7 @@ Nav logoen på toppen av nettsiden fører til forsiden. Dette er beskrevet som �
 
 NAV.no har en meny funksjon med godkjente lenker og en søkefunksjon. Begge disse er tilgjengelig på tvers av nettsiden øverst ved header. Hvis nettsidens størrelse blir endret fra 50% til 100%, blir meny og søk funksjon krympet og plassert på samme sted, fortsatt på en oversiktlig måte. 
 
-•	Godkjent
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -287,7 +292,7 @@ Skjema:
 •	Tydelige feilmeldinger
 Nav.no bruker H*1 H*2 H*3 osv. i riktig rekkefølge. De fleste elementene på nav.no er lenker men overskriftene skiller mellom kategoriene til lenkene på en god måte. I koden til nettsiden blir søk og navigering beskrevet som de funksjonene de har men det er ikke noen ledetekster når elementene er i fokus. 
 Overskrifter og ledetekster har en god funksjonalitet og virker logisk på nettsiden til nav.
-•	Godkjent
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -298,7 +303,7 @@ Overskrifter og ledetekster har en god funksjonalitet og virker logisk på netts
 
 Som beskrevet i et tidligere punkt, får alle elementer synlig fokus når et element er valgt med tastatur. 
 
-•	Godkjent
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -309,7 +314,7 @@ Som beskrevet i et tidligere punkt, får alle elementer synlig fokus når et ele
 
 Nav.no har språket angitt i på både Norsk(no), Engelsk(en) og Samis(se)
 
-•	Godkjent
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -318,7 +323,7 @@ Nav.no har språket angitt i på både Norsk(no), Engelsk(en) og Samis(se)
     <p class="tittel"><a class="anchor" id="27"></a>3.1.2 Språk på deler av innhold</p>
     <p class="svar">-	Deler av innholdet som er på et annet språk enn resten av siden er markert i koden.
 
-Ikke aktuelt for NAV sin nettside.
+    </br>Ikke aktuelt for NAV sin nettside.
 </p>
     
 </div>
@@ -329,7 +334,7 @@ Ikke aktuelt for NAV sin nettside.
 
 Når elementer kommer i fokus er det kun det valgte elementet som blir påvirket på NAV sin nettside.
 
-•	Godkjent
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -340,7 +345,7 @@ Når elementer kommer i fokus er det kun det valgte elementet som blir påvirket
 
 Navigasjon med tastatur fortsetter i rekkefølge på flere websider innenfor nav.no.
 
-•	Godkjent
+•	</br>Godkjent 
 </p>
     
 </div>
@@ -350,7 +355,7 @@ Navigasjon med tastatur fortsetter i rekkefølge på flere websider innenfor nav
     <p class="svar">-	komponenter har samme funksjonalitet innenfor en samling av nettsider, identifiseres på en konsekvent måte. 
 Elementer som linker, overskrifter osv. på tvers av sider er utformet på samme måte i kodene
 
-•	godkjent
+•	</br>Godkjent 
 </p>
     
 </div>

@@ -106,7 +106,7 @@ p{
     flex-basis:100%;
     margin-left: 20px;
     margin-right: 20px;
-     background-color: grey;
+     background-color: rgb(235, 198, 198);
     text-align: left;
       line-height: 20px;
       padding: 30px;
@@ -120,6 +120,8 @@ p{
 
 .resultat{
     margin-bottom: 20px;
+    height: 200px;
+  
     
    
  
@@ -128,6 +130,13 @@ p{
     font-size: 50px;
     line-height: 60px;
     margin: 25px 0;
+}
+
+
+.tittel{
+
+
+    font-size: x-large;
 }
 
 .btn{
