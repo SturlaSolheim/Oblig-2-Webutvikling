@@ -11,10 +11,10 @@ include("header.php");
 
 
 
-
+<div class="main">
 
 <div class="col-1">
-
+<h1>WCAG tester på nav.no</h1>
 
 <ul> 
     <li><a href="#1">1.1.1 Ikke-tekstlig innhold</a></li>
@@ -276,8 +276,8 @@ NAV.no har en meny funksjon med godkjente lenker og en søkefunksjon. Begge diss
     <p class="tittel"><a class="anchor" id="24"></a>2.4.6 Overskrifter og ledetekster</p>
     <p class="svar">-	Overskrifter og ledetekster beskriver emne eller formål.
 -	God tekststruktur er viktig for lesbarhet og navigering i innhold.
--	Hovedinnholdets tittel skal være den første overskriften i koden, og skal være på nivå 1 ved hjelp av elementet <h1>
--	Overskrifter kodes ved hjelp av overskriftelementene <h1> til <h6>, disse deler opp teksten tilsvarende i kapitler og delkapitler i ulike nivåer.
+-	Hovedinnholdets tittel skal være den første overskriften i koden, og skal være på nivå 1 ved hjelp av elementet h*1
+-	Overskrifter kodes ved hjelp av overskriftelementene H*1 til H*6", disse deler opp teksten tilsvarende i kapitler og delkapitler i ulike nivåer.
 Skjema:
 -	Tilgjengelige skjema gir økt brukervennlighet for alle.
 -	Skjema omfatter alt fra søkefelt, innlogging, søknader om offentlige tjenester og kjøpsfunksjonaliteter for flybilletter og hotellovernatting.
@@ -285,7 +285,7 @@ Skjema:
 •	Beskrivende ledetekster
 •	Merking av obligatoriske felter
 •	Tydelige feilmeldinger
-Nav.no bruker <h1> <h2> <h2> <h3> osv. i riktig rekkefølge. De fleste elementene på nav.no er lenker men overskriftene skiller mellom kategoriene til lenkene på en god måte. I koden til nettsiden blir søk og navigering beskrevet som de funksjonene de har men det er ikke noen ledetekster når elementene er i fokus. 
+Nav.no bruker H*1 H*2 H*3 osv. i riktig rekkefølge. De fleste elementene på nav.no er lenker men overskriftene skiller mellom kategoriene til lenkene på en god måte. I koden til nettsiden blir søk og navigering beskrevet som de funksjonene de har men det er ikke noen ledetekster når elementene er i fokus. 
 Overskrifter og ledetekster har en god funksjonalitet og virker logisk på nettsiden til nav.
 •	Godkjent
 </p>
@@ -393,7 +393,7 @@ Elementer som linker, overskrifter osv. på tvers av sider er utformet på samme
 
 
 
-
+</div>
 
 
 
