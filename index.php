@@ -10,6 +10,7 @@ include("header.php");
 <h1>Universell utforming</h1>
 <p>Denne nettsiden er laget for obligatorisk oppgave 2 i webutvikling, og den handler om universell utforming.</p>
 <p>På denne siden finner du blant annet brukertester av nav.no og andre nettsider.</p>
+<p>Laget av gruppe 3</p>
 
 
 </div>
