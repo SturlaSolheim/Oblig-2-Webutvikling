@@ -25,7 +25,7 @@
            <li> <a href="index.php"> Hjem</a></li>
            <li> <a href="nav_wcag.php">NAV WCAG 2.0 test</a></li>
             <li><a href="videoer.php">Videoer</a></li>
-            <li><a href="annet.php">Annet</a></li>
+            <li><a href="annet.php">Sammendrag</a></li>
         </ul>
        </nav>
        <img src="bilder/menu.png" class="menu-icon" onclick="menutoggle()">
