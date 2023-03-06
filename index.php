@@ -17,6 +17,10 @@ include("header.php");
 
 </div>
 
+
+
+
+
 <div class="section">
 <div class="col2">
 <img src="bilder/universell-utforming.jpg" alt="Illustrasjon av universell utforming">
